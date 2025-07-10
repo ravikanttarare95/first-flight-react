@@ -1,5 +1,4 @@
 import Navbar from "./Navbar.jsx";
-
 import Button from "./Button.jsx";
 
 function Home() {
@@ -22,7 +21,6 @@ function Home() {
         <Button title="Hello" variant={"primary"} />
         <Button title="Good Night" variant={"secondary"} />
         <hr />
-
       </>
     </>
   );
