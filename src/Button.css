@@ -8,19 +8,19 @@
   transition: all 0.3s ease-in-out;
 }
 
-.btn-good-night {
+.btn-primary {
   border: none;
   box-shadow: 0 2px 5px rgba(3, 0, 62, 0.108);
   background: #000;
   color: #fff;
 }
 
-.btn-hello {
+.btn-secondary {
   border: 1px solid rgb(193, 39, 0);
   background: rgb(255, 212, 212);
   color: rgb(193, 39, 0);
 }
 
-.btn-hello:hover {
+.btn-secondary:hover {
   box-shadow: 0 2px 5px rgba(193, 39, 0, 0.3);
 }
